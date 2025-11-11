@@ -15,3 +15,4 @@
 /Users/yoanc/src/esepwebhook/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
 /Users/yoanc/src/esepwebhook/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/yoanc/src/esepwebhook/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
+/Users/yoanc/src/esepwebhook/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.sourcelink.json
