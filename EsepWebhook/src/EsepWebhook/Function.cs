@@ -30,7 +30,7 @@ public class Function
             Content = new StringContent(payload, Encoding.UTF8, "application/json")
         };
         
-        var response = client.send(webRequest);
+        var response = client.Send(webRequest);
         using var reader = new StreamReader(response.Content.ReadAsStream());
 
         return reader.ReadToEnd();
